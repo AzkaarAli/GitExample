@@ -10,4 +10,6 @@
 
 @interface GitViewController : UIViewController
 
+- (IBAction)buttonTapped:(id)sender;
+
 @end
